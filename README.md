@@ -1,2 +1,2 @@
 # kelly
-Kelly - Mestrual, especialmente para voçê com um periodo irregular.
+Kelly - Mestrual, especialmente para você com um periodo irregular.
